@@ -34,7 +34,7 @@ include("partials/connect.php");
 			</div>
 
 			
-			<div class="wrap-menu-desktop">
+			<div style="background-color:white;" class="wrap-menu-desktop">
 				<nav class="limiter-menu-desktop container">
 					
 					<!-- Logo desktop -->		
@@ -47,20 +47,23 @@ include("partials/connect.php");
 						<ul class="main-menu">
 						
 							<li>
-								<a href="index.php">Home</a>
+								<a style="font-size: large;"href="index.php">Home</a>
 							</li>
 
 							<li>
-								<a href="product.php">Shop</a>
+								<a style="font-size: large;"href="product.php">Shop</a>
 							</li>
 
 							<li>
-								<a href="about.php">About</a>
+								<a style="font-size: large;"href="about.php">About</a>
 							</li>
 
 							<li>
-								<a href="contact.php">Contact</a>
+								<a style="font-size: large;"href="contact.php">Contact</a>
+				
 							</li>
+							
+
 						</ul>
 					</div>	
 
